@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/tuzapaymoney/static/css/main.da1660c7.chunk.css",
+    "main.js": "/tuzapaymoney/static/js/main.922e15df.chunk.js",
+    "main.js.map": "/tuzapaymoney/static/js/main.922e15df.chunk.js.map",
+    "runtime-main.js": "/tuzapaymoney/static/js/runtime-main.6c70b5a4.js",
+    "runtime-main.js.map": "/tuzapaymoney/static/js/runtime-main.6c70b5a4.js.map",
+    "static/js/2.9265d37f.chunk.js": "/tuzapaymoney/static/js/2.9265d37f.chunk.js",
+    "static/js/2.9265d37f.chunk.js.map": "/tuzapaymoney/static/js/2.9265d37f.chunk.js.map",
+    "index.html": "/tuzapaymoney/index.html",
+    "static/css/main.da1660c7.chunk.css.map": "/tuzapaymoney/static/css/main.da1660c7.chunk.css.map",
+    "static/js/2.9265d37f.chunk.js.LICENSE.txt": "/tuzapaymoney/static/js/2.9265d37f.chunk.js.LICENSE.txt",
+    "static/media/1.fa27cddf.jpg": "/tuzapaymoney/static/media/1.fa27cddf.jpg",
+    "static/media/Mobile App Download-01.a04df683.png": "/tuzapaymoney/static/media/Mobile App Download-01.a04df683.png",
+    "static/media/nunito-font.css": "/tuzapaymoney/static/media/Nunito-SemiBoldItalic.d38c4851.ttf",
+    "static/media/Support Girl Child Education Image-01.38830c48.png": "/tuzapaymoney/static/media/Support Girl Child Education Image-01.38830c48.png",
+    "static/media/Support Maternal Health-01.fa11e74c.png": "/tuzapaymoney/static/media/Support Maternal Health-01.fa11e74c.png",
+    "static/media/Support Widows-01.3779b709.png": "/tuzapaymoney/static/media/Support Widows-01.3779b709.png",
+    "static/media/afford_white.ecf02e62.png": "/tuzapaymoney/static/media/afford_white.ecf02e62.png",
+    "static/media/asaph.3cfe8692.jpg": "/tuzapaymoney/static/media/asaph.3cfe8692.jpg",
+    "static/media/charles.d9be6e06.JPG": "/tuzapaymoney/static/media/charles.d9be6e06.JPG",
+    "static/media/irumva.7613b9c7.jpg": "/tuzapaymoney/static/media/irumva.7613b9c7.jpg",
+    "static/media/katende.52a9d2cd.jpg": "/tuzapaymoney/static/media/katende.52a9d2cd.jpg",
+    "static/media/logo.f77c1650.jpg": "/tuzapaymoney/static/media/logo.f77c1650.jpg",
+    "static/media/store.aa478b4e.jpg": "/tuzapaymoney/static/media/store.aa478b4e.jpg",
+    "static/media/undraw_mobile_pay_re_sjb8.6c6442c5.svg": "/tuzapaymoney/static/media/undraw_mobile_pay_re_sjb8.6c6442c5.svg",
+    "static/media/undraw_transfer_money_rywa.4fc1112b.svg": "/tuzapaymoney/static/media/undraw_transfer_money_rywa.4fc1112b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c70b5a4.js",
+    "static/js/2.9265d37f.chunk.js",
+    "static/css/main.da1660c7.chunk.css",
+    "static/js/main.922e15df.chunk.js"
+  ]
+}
