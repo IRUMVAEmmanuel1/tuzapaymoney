@@ -1,6 +1,6 @@
-import React from 'react'
-// import './success_css/demo.css';
-// import './success_css/style.css';
+import React from 'react';
+import './success_css/demo.css';
+import './success_css/style.css';
 import Header from '../Header/Header';
 import {Link} from 'react-router-dom';
 
