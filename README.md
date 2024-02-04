@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# TUZA PAY - AUE to Africa Money Transfer System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+Tuza Pay is a robust and secure money transfer system designed to facilitate seamless financial transactions from the United Arab Emirates (AUE) to various countries in Africa. This application is built using modern web technologies, including React.js for the frontend, Node.js and Express.js for the backend, and PostgreSQL as the database. Tuza Pay focuses on providing an efficient and reliable remittance platform, ensuring a smooth experience for users transferring money across borders.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **User-Friendly Interface:** Tuza Pay offers an intuitive and user-friendly interface, making it easy for users to navigate and initiate money transfers effortlessly.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Secure Transactions:** Our system ensures the security of financial transactions, employing industry-standard encryption and security protocols to safeguard user data.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- **Real-Time Exchange Rates:** Tuza Pay provides real-time exchange rates, allowing users to be informed about the current conversion rates before initiating a money transfer.
 
-### `npm test`
+- **Transaction History:** Users can view their transaction history, providing transparency and a detailed record of their money transfer activities.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Instant Notifications:** Tuza Pay keeps users informed with instant notifications, updating them on the status of their transactions, ensuring a seamless experience.
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React.js:** A modern JavaScript library for building interactive user interfaces, providing a responsive and dynamic frontend.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Node.js:** A runtime environment for executing JavaScript code on the server-side, facilitating scalable and high-performance backend development.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Express.js:** A web application framework for Node.js, simplifying the creation of robust APIs and server-side applications.
 
-### `npm run eject`
+- **PostgreSQL:** A powerful, open-source relational database system used to store and manage transactional data securely.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Getting Started
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/tuza-pay.git
