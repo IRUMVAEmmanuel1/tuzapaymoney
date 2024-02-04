@@ -30,4 +30,4 @@ Tuza Pay is a robust and secure money transfer system designed to facilitate sea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tuza-pay.git
+   https://github.com/IRUMVAEmmanuel1/tuzapaymoney.git
