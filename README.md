@@ -26,7 +26,7 @@ Tuza Pay is a robust and secure money transfer system designed to facilitate sea
 
 - **PostgreSQL:** A powerful, open-source relational database system used to store and manage transactional data securely.
 
-## Getting Started
+## Getting Started 
 
 1. Clone the repository:
    ```bash
