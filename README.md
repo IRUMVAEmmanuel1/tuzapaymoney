@@ -1,5 +1,5 @@
 # TUZA PAY - AUE to Africa Money Transfer System     
-
+ 
 ## Overview
 
 Tuza Pay is a robust and secure money transfer system designed to facilitate seamless financial transactions from the United Arab Emirates (AUE) to various countries in Africa. This application is built using modern web technologies, including React.js for the frontend, Node.js and Express.js for the backend, and PostgreSQL as the database. Tuza Pay focuses on providing an efficient and reliable remittance platform, ensuring a smooth experience for users transferring money across borders.
