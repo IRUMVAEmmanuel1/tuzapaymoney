@@ -17,7 +17,7 @@ Tuza Pay is a robust and secure money transfer system designed to facilitate sea
 - **Instant Notifications:** Tuza Pay keeps users informed with instant notifications, updating them on the status of their transactions, ensuring a seamless experience.
 
 ## Technologies Used 
-
+ 
 - **React.js:** A modern JavaScript library for building interactive user interfaces, providing a responsive and dynamic frontend.
 
 - **Node.js:** A runtime environment for executing JavaScript code on the server-side, facilitating scalable and high-performance backend development.
