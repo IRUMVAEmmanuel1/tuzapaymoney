@@ -1,4 +1,4 @@
-# TUZA PAY - AUE to Africa Money Transfer System          
+# TUZA PAY - AUE to Africa Money Transfer System           
            
 ## Overview         
   
